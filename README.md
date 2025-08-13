@@ -1,0 +1,4 @@
+- **Option 1:** File Organizer  
+- **Programming Language:** C#  
+- **Run the program using:** Visual Studio 2022 (.NET 8.0)  
+- **Notes:** The code ensures that subfolders exist for each category and handles filename collisions by appending a unique GUID to any duplicate. It also includes safeguards against moving files already in appropriate folders and provides a summary of how many files were moved and previews the simulation.
